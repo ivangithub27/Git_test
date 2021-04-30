@@ -18,8 +18,4 @@ char_frequency_sorted = (
 print(char_frequency_sorted[0])
 """
 
-<<<<<<< HEAD
-print("first code", timeit(code1, number=80000))
-=======
-print("first code", timeit(code1, number=90000))
->>>>>>> 4c59d77d72c79163bf910b97522d0e6e11dff323
+print("first code", timeit(code1, number=130000))
