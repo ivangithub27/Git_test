@@ -18,4 +18,4 @@ char_frequency_sorted = (
 print(char_frequency_sorted[0])
 """
 
-print("first code", timeit(code1, number=60000))
+print("first code", timeit(code1, number=70000))

@@ -13,4 +13,4 @@ char_frequency_sorted = (
            key=lambda kv: kv[1],
            reverse=True))
 
-print(char_frequency_sorted[0])
+print(char_frequency_sorted[0]) #frequency
